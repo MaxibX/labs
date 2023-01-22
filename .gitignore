@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+cmake-build-default/
+.idea/
+/lab1/cmakelists.txt
+lib/
