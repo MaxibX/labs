@@ -1,0 +1,4 @@
+cmake-build-default/
+.idea/
+CMakeLists.txt
+googletest-1.13.0/
